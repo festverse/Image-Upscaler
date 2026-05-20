@@ -975,10 +975,6 @@ Free to use, modify, and distribute — see the [LICENSE](LICENSE) file for deta
 ⭐ [Give a star to this project](https://github.com/festverse/Image-Upscaler)
 
 <div align="center">
-  
-<a href="https://github.com/festverse/Image-Upscaler">
-<img src="https://github.com/festverse/AniPay/blob/main/Source/Banner6.png" alt="Banner">
-</a>
 
 <i>~ For inquiries or collaborations</i>
      
