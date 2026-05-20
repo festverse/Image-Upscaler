@@ -1,0 +1,43 @@
+# Ignore Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Model / output files (large, don't commit)
+*.safetensors
+*.gguf
+*.ckpt
+*.pt
+*.pth
+*.bin
+output/
+results/
+*.zip
+
+# Logs
+*.log

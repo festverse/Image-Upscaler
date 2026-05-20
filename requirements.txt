@@ -1,0 +1,15 @@
+# Core ML dependencies (install via --index-url for CUDA support)
+torch
+torchvision
+torchaudio
+
+# ComfyUI
+xformers!=0.0.18
+numpy<2
+
+# Download utilities
+gdown
+aria2
+
+# Notebook
+IPython
