@@ -45,7 +45,7 @@ Open notebook in Google Colab, set runtime to T4, and run — it's that simple.
 
 | Section | Description |
 |:--------|:------------|
-| [📖 Overview](#-overview) | What is image Turbo Pro? |
+| [📖 Overview](#-overview) | What is Image Upscaler? |
 | [📂 Project Structure](#-project-structure) | Repository layout |
 | [🧩 Architecture](#-architecture) | Pipeline flow diagram |
 | [⚙️ Pipeline Components](#️-pipeline-components) | Models and tools used |
@@ -72,7 +72,7 @@ Open notebook in Google Colab, set runtime to T4, and run — it's that simple.
 
 ## 📖 Overview
 
-image Turbo Pro is a **next-gen FP8 diffusion pipeline** with ComfyUI backend and smart caching. Professional-grade image generation on free Colab hardware — zero setup, zero configuration.
+Image Upscaler is a **next-gen FP8 diffusion pipeline** with ComfyUI backend and smart caching. Professional-grade image generation on free Colab hardware — zero setup, zero configuration.
 
 > [!NOTE]
 > **Why FP8?** FP8 (8-bit floating point) quantization cuts VRAM usage nearly in half compared to full precision while preserving output quality. This enables pro-grade image generation on free T4 GPUs — no paid Colab tier required.
