@@ -18,7 +18,7 @@
 
 <br/>
 
-[![Model](https://img.shields.io/badge/Model-Z--Image%20Turbo%20Pro-A855F7?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/T5B/image-Turbo-FP8)
+[![Model](https://img.shields.io/badge/Model-Image%20Upscaler-A855F7?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/T5B/image-Turbo-FP8)
 [![ComfyUI](https://img.shields.io/badge/Powered%20by-ComfyUI-FF6F00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTVNMiAxN2wxMCA1IDEwLTVDNiAxMmwxMCA1IDEwLTUiLz48L3N2Zz4=&logoColor=white)](https://github.com/comfyanonymous/ComfyUI)
 [![GPU](https://img.shields.io/badge/GPU-T4%20Required-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://colab.research.google.com)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
