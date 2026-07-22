@@ -5,7 +5,7 @@ torchaudio
 
 # ComfyUI
 xformers!=0.0.18
-numpy<3
+numpy<2
 
 # Download utilities
 gdown
